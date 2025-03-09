@@ -16,6 +16,6 @@ Basically, if you want to add *oomph* and functionality to your Roblox experienc
 * **To potentially collaborate on exciting projects!**  If you have a vision for a Roblox game and need a scripter, let's chat!
 * **To showcase my scripting skills and learn from the community.**  Feedback and ideas are always welcome.
 
-**Let's connect!**  Feel free to reach out if you're interested in Roblox scripting, game development, or just want to say hi!  I'm excited to be part of this community.
+**Reach Out!**  Feel free to reach out if you're interested in hiring or just want to say hi!.
 
 ---
