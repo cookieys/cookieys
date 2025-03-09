@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm cookieys, and I craft Roblox magic! ✨
 
-Hey everyone!  Let me introduce myself. I'm **cookieys**, and I'm passionate about bringing ideas to life in the amazing world of Roblox!
+Hey everyone!  Let me introduce myself. I'm **cookieys**
 
 **What do I do?**  Well, I'm a Roblox script creator!  That means I write the code that makes things happen in your favorite Roblox games.  Think about:
 
