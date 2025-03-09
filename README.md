@@ -19,5 +19,3 @@ Basically, if you want to add *oomph* and functionality to your Roblox experienc
 **Let's connect!**  Feel free to reach out if you're interested in Roblox scripting, game development, or just want to say hi!  I'm excited to be part of this community.
 
 ---
-
-**#Roblox #RobloxDev #Scripting #Lua #GameDev #Cookieys**
