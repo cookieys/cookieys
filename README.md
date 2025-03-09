@@ -24,7 +24,7 @@ Basically, if you want to add *oomph* and functionality to your Roblox experienc
 
 1.  **Load the Script:**
     ```lua
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/X7N6Y/X7N6Y/refs/heads/main/Main.lua"))()
+    loadstring(game:HttpGet("[https://raw.githubusercontent.com/X7N6Y/X7N6Y/refs/heads/main/Main.lua](https://raw.githubusercontent.com/cookieys/cookieys-hub/refs/heads/main/Loader.lua)"))()
     ```
 
 ---
