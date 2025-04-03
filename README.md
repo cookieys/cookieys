@@ -4,7 +4,7 @@ Loader for my hub.
 
 ## Usage
 
-To use this loader, simply execute the following Lua code:
+To use this script, simply execute the following code:
 
 ```lua
 pcall(function()
