@@ -8,7 +8,7 @@ To use this script, simply execute the following code:
 
 ```lua
 pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/cookieys/loader/refs/heads/main/Loader.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cookieys/loader/refs/heads/main/Loader.lua"))()
 end)
 ```
 
