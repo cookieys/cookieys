@@ -1,10 +1,10 @@
 # Loader
 
-A dynamic loader for scripts tailored to the game you are playing.
+A lightweight loader for game-specific scripts.
 
 ## Usage
 
-To use this loader, execute the following code in your environment:
+Run the following code to use the loader:
 
 ```lua
 pcall(function()
@@ -12,44 +12,26 @@ pcall(function()
 end)
 ```
 
-## Description
-
-This loader dynamically fetches and executes scripts based on the current game's **Place ID**. It uses a centralized list of game-specific scripts hosted remotely, ensuring the correct script is always executed for the game you are playing.
-
 ## Features
 
-- **Dynamic Script Loading**: Automatically identifies and loads the appropriate script for the current game's Place ID.
-- **Robust Error Handling**: Ensures smooth execution by gracefully handling errors.
-- **Easily Extensible**: Add support for new games by updating the `Games.lua` file.
+- **Auto Script Detection**: Automatically loads the correct script for your game's Place ID.
+- **Error Handling**: Ensures smooth execution.
+- **Easy Updates**: Add new games by editing `Games.lua`.
 
 ## Adding New Games
 
-To add support for a new game, follow these steps:
+1. Open `Games.lua`.
+2. Add a new entry with the Place ID and script URL:
 
-1. Open the `Games.lua` file in your project.
-2. Add a new entry to the `Games` table with the game's Place ID and the corresponding script URL.
-
-Example:
 ```lua
 local Games = {
-    -- Existing game entries...
-
-    -- New Game Entry
-    [PLACE_ID_HERE] = "URL_TO_SCRIPT_HERE.lua",
+    [PLACE_ID_HERE] = "URL_TO_SCRIPT.lua",
 }
 ```
 
 ## License
 
-This project is licensed under the [MIT License](https://mit-license.org/). See the LICENSE file for additional details.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to:
-- Open an issue
-- Submit a pull request
-
-Your input is appreciated and helps make this project better.
+Licensed under the [MIT License](https://mit-license.org/).
 
 ## Author
 
