@@ -1,6 +1,6 @@
 # Loader
 
-A lightweight loader for game-specific scripts.
+A lightweight, open-source loader for game-specific scripts.
 
 ## Usage
 
@@ -28,6 +28,10 @@ local Games = {
     [PLACE_ID_HERE] = "URL_TO_SCRIPT.lua",
 }
 ```
+
+## Open Source
+
+This project is open source and contributions are welcome! Feel free to fork the repository, submit pull requests, or report issues.
 
 ## License
 
