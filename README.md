@@ -7,7 +7,7 @@ Loader for my hub.
 Execute:
 ```lua
 pcall(function()
-    loadstring(game:HttpGet("[https://raw.githubusercontent.com/cookieys/loader/refs/heads/main/Loader.lua](https://raw.githubusercontent.com/cookieys/loader/refs/heads/main/Loader.lua)"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cookieys/loader/refs/heads/main/Loader.lua"))()
 end)
 ```
 
