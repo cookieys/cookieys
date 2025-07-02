@@ -1,15 +1,13 @@
 # Loader
 
-A lightweight, open-source loader for game-specific scripts.
+A lightweight, open-source script for roblox.
 
 ## Usage
 
 Run the following code to use the loader:
 
 ```lua
-pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/cookieys/loader/refs/heads/main/Loader.lua"))()
-end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cookieys/loader/refs/heads/main/Loader.lua", true))()
 ```
 
 ## Features
