@@ -21,9 +21,14 @@ local Games = {
     [PLACE_ID_HERE] = "URL_TO_SCRIPT.lua",
 }
 
-Open Source
+## Open Source
+
 This project is open source and contributions are welcome! Feel free to fork the repository, submit pull requests, or report issues.
-License
-Licensed under the MIT License.
-Author
-Made with ♡ by XyraV
+
+## License
+
+Licensed under the [MIT License](https://mit-license.org/).
+
+## Author
+
+Made with ♡ by [XyraV](https://github.com/cookieys)
